@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Owen Jerusalem!
 
-<!--
-**Owen-Jerusalem/Owen-Jerusalem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a 2nd year Computer Science student at **Bukidnon State University** with a passion for learning and building real-world projects using modern technologies.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Frontend: **HTML**, **CSS**, **JavaScript**
+- 🗄️ Backend & Databases: **MySQL**, **Python**, **Java**
+- 🛠️ Tools & Platforms: **Git**, **GitHub**
+
+## 🚀 About Me
+
+I enjoy solving problems, exploring new tools, and contributing to meaningful projects. I'm currently focused on improving my full-stack development skills and collaborating on open-source initiatives.
+
+## 📫 Let's Connect
+
+Feel free to check out my repositories and connect with me!
+
+---
+
+⭐ *Thanks for visiting my profile!*
+
